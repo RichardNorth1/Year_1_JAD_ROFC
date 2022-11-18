@@ -1,0 +1,10 @@
+CoreApplication\BaseTypeTest.class
+CoreApplication\ChairTest.class
+CoreApplication\DeskTest.class
+CoreApplication\FurnitureTest$FurnitureImpl.class
+CoreApplication\NoDeskDrawsTest.class
+CoreApplication\ArmrestsNeededTest.class
+CoreApplication\FurnitureTest.class
+CoreApplication\TableTest.class
+CoreApplication\BasketTest.class
+CoreApplication\WoodTypeTest.class
